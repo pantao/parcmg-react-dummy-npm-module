@@ -1,0 +1,29 @@
+{
+  "name": "parcmg-react-dummy-npm-module",
+  "version": "0.0.0-development",
+  "description": "React Dummy NPM Module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pantao/parcmg-react-dummy-npm-module.git"
+  },
+  "keywords": [
+    "React",
+    "Module",
+    "NPM",
+    "Dummy"
+  ],
+  "author": {
+    "name": "pantao",
+    "email": "ofcrab@gmail.com",
+    "url": "https://pantao.parcmg.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pantao/parcmg-react-dummy-npm-module/issues"
+  },
+  "homepage": "https://github.com/pantao/parcmg-react-dummy-npm-module#readme"
+}
